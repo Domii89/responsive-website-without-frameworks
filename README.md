@@ -1,4 +1,5 @@
-# responsive-website-without-frameworks
+# responsive website without frameworks
+<strong>(just HTML and CSS)</strong>
 
 screen view<br>
 ![Alt Text](https://media.giphy.com/media/l4RgWfltkX7OPGgRKr/giphy.gif)
